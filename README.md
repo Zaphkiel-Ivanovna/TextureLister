@@ -23,3 +23,11 @@ Texture Lister is a script for Unity 2019 that allows you to list all textures u
 ### 🚀 Author
 
 This script was developed by Zaphkiel#0666 to facilitate texture management in Unity projects. Feel free to share and contribute to the improvement of this tool.
+
+### 📷 Demo
+
+#### Initial State
+![Texture Lister Main Window](Screenshots/2h2JfuXHFa.png)
+
+#### When you put a GameObject and click on `List Textures`
+![Texture Lister Main Window Used](Screenshots/xDjilU2Z7u.png)
